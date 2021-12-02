@@ -1,0 +1,4 @@
+.player:hover {
+    cursor: pointer;
+    color: grey;
+}
